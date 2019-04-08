@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jose/Documentos/ReactorArc2.0/Esq1.sch</source>
+    <date>jue 05 abr 2018 19:38:41 -05</date>
+    <tool>Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Esq_Reactor_Arc2.0</title>
+        <company>www.mrbot.tech</company>
+        <rev/>
+        <date>2018-04-01</date>
+        <source>Esq1.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>ESP-01v090</value>
+      <footprint>ESP8266:ESP-01</footprint>
+      <libsource lib="Esq1-cache" part="ESP-01v090"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1722F</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC172A4</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC179AE</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17A2B</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17AD2</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17BAC</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17D8B</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17DA6</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17DBF</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B</value>
+      <footprint>WS2812B:WS2812B</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Campo4">WS2812B</field>
+        <field name="Campo5">5.52 USD</field>
+        <field name="Campo6">Adafruit Industries</field>
+        <field name="Campo7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Campo8">Bad</field>
+      </fields>
+      <libsource lib="Esq1-cache" part="WS2812B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC17DD8</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1AC27</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1B89F</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1BA0B</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1BAB9</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1BCFB</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1C5F7</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1C6BB</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1C7A9</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC1C82B</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM1117-3.3</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-223</footprint>
+      <libsource lib="Esq1-rescue" part="LM1117-3.3-RESCUE-Esq1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2AB07</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2793B</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC27BD2</tstamp>
+    </comp>
+    <comp ref="Rst1">
+      <value>SW_PUSH_SMALL_H</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_B3U-1000P</footprint>
+      <libsource lib="Esq1-cache" part="SW_PUSH_SMALL_H"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC27F42</tstamp>
+    </comp>
+    <comp ref="Flash1">
+      <value>SW_PUSH_SMALL_H</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_B3U-1000P</footprint>
+      <libsource lib="Esq1-cache" part="SW_PUSH_SMALL_H"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC281FF</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC28C72</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC28D32</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>USB_PC</value>
+      <footprint>Connectors_USB:USB_Micro-B_Molex_47346-0001</footprint>
+      <libsource lib="Esq1-rescue" part="USB_OTG-RESCUE-Esq1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2AC13</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>CH340G</value>
+      <footprint>w_smd_dil:so-16</footprint>
+      <libsource lib="ch34x" part="CH340G"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2B65D</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>CRYSTAL_SMD</value>
+      <libsource lib="Esq1-cache" part="CRYSTAL_SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2B864</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2C145</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2C2E3</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="CP_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2EADF</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>10u</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="CP_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC2ED70</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC327AB</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>104</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC357EA</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>USB_Adap</value>
+      <footprint>Connectors_USB:USB_Micro-B_Molex_47346-0001</footprint>
+      <libsource lib="Esq1-rescue" part="USB_OTG-RESCUE-Esq1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC642E3</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC66F73</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>PWR</value>
+      <libsource lib="device" part="LED_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC67859</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6B8F2</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>Blk</value>
+      <libsource lib="device" part="LED_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6B9A7</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6CEC6</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>Blk</value>
+      <libsource lib="device" part="LED_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6CECC</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6D10C</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>Blk</value>
+      <libsource lib="device" part="LED_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6D112</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Bat</value>
+      <footprint>Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC69E53</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6A491</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AC6A55E</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ch34x" part="CH340G">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH340G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TX" type="output"/>
+        <pin num="3" name="RX" type="input"/>
+        <pin num="4" name="V3" type="power_in"/>
+        <pin num="5" name="D+" type="BiDi"/>
+        <pin num="6" name="D-" type="BiDi"/>
+        <pin num="7" name="XI" type="input"/>
+        <pin num="8" name="XO" type="input"/>
+        <pin num="9" name="CTS" type="output"/>
+        <pin num="10" name="DSR" type="output"/>
+        <pin num="11" name="RI" type="output"/>
+        <pin num="12" name="DCD" type="output"/>
+        <pin num="13" name="DTR" type="output"/>
+        <pin num="14" name="RTS" type="output"/>
+        <pin num="15" name="RS232" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP_Small">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Esq1-cache" part="CRYSTAL_SMD">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">CRYSTAL_SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="case" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Esq1-cache" part="ESP-01v090">
+      <footprints>
+        <fp>ESP-01*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP-01v090</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UTXD" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="CH_PD" type="input"/>
+        <pin num="4" name="GPIO2" type="3state"/>
+        <pin num="5" name="RST" type="input"/>
+        <pin num="6" name="GPIO0" type="3state"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="URXD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED_Small">
+      <description>LED, small symbol</description>
+      <footprints>
+        <fp>LED-*</fp>
+        <fp>LED_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Esq1-rescue" part="LM1117-3.3-RESCUE-Esq1">
+      <footprints>
+        <fp>SOT-223*</fp>
+        <fp>TO-263*</fp>
+        <fp>TO-252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM1117-3.3-RESCUE-Esq1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND/ADJ" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+        <pin num="4" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Esq1-cache" part="SW_PUSH_SMALL_H">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH_SMALL_H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Esq1-rescue" part="USB_OTG-RESCUE-Esq1">
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_OTG-RESCUE-Esq1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Esq1-cache" part="WS2812B">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">WS2812B</field>
+        <field name="Datasheet">None</field>
+        <field name="Field4">WS2812B</field>
+        <field name="Field5">5.52 USD</field>
+        <field name="Field6">Adafruit Industries</field>
+        <field name="Field7">Intelligent Control Led Integrated Light Source Pack Of 10</field>
+        <field name="Field8">Bad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Esq1-rescue">
+      <uri>/home/jose/Documentos/ReactorArc2.0/Esq1-rescue.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="ch34x">
+      <uri>/home/jose/Documentos/ReactorArc2.0/componentes/kicad-ch34x-master/ch34x.lib</uri>
+    </library>
+    <library logical="Esq1-cache">
+      <uri>/home/jose/Documentos/ReactorArc2.0/Esq1-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="D6_DIN4">
+      <node ref="D5" pin="2"/>
+      <node ref="D7" pin="4"/>
+    </net>
+    <net code="2" name="Net-(R2-Pad1)">
+      <node ref="Rst1" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="3" name="Net-(D10-Pad4)">
+      <node ref="D9" pin="2"/>
+      <node ref="D10" pin="4"/>
+    </net>
+    <net code="4" name="Net-(R1-Pad2)">
+      <node ref="U1" pin="3"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="D2" pin="4"/>
+    </net>
+    <net code="6" name="Dato">
+      <node ref="U1" pin="4"/>
+      <node ref="D1" pin="4"/>
+    </net>
+    <net code="7" name="Net-(D6-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="D5" pin="4"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D8-Pad2)">
+      <node ref="D9" pin="4"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D7-Pad2)">
+      <node ref="D8" pin="4"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="D4" pin="4"/>
+    </net>
+    <net code="12" name="Net-(D2-Pad2)">
+      <node ref="D3" pin="4"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D12-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="14" name="uRX">
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="15" name="uTX">
+      <node ref="R6" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="16" name="Net-(D15-Pad2)">
+      <node ref="R6" pin="1"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D14-Pad2)">
+      <node ref="R5" pin="1"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="18" name="Net-(P1-Pad4)">
+      <node ref="P1" pin="4"/>
+    </net>
+    <net code="19" name="+5V">
+      <node ref="C10" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="P1" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="20" name="GNDREF">
+      <node ref="C8" pin="2"/>
+      <node ref="D2" pin="3"/>
+      <node ref="C5" pin="2"/>
+      <node ref="D3" pin="3"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U2" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="P1" pin="6"/>
+      <node ref="P1" pin="5"/>
+      <node ref="C12" pin="2"/>
+      <node ref="Flash1" pin="2"/>
+      <node ref="Rst1" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U3" pin="1"/>
+      <node ref="P2" pin="6"/>
+      <node ref="P2" pin="5"/>
+      <node ref="U1" pin="2"/>
+      <node ref="D8" pin="3"/>
+      <node ref="D7" pin="3"/>
+      <node ref="D5" pin="3"/>
+      <node ref="D4" pin="3"/>
+      <node ref="D1" pin="3"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="X1" pin="3"/>
+      <node ref="D15" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="D10" pin="3"/>
+      <node ref="C4" pin="2"/>
+      <node ref="D9" pin="3"/>
+      <node ref="C9" pin="2"/>
+    </net>
+    <net code="21" name="Net-(P1-Pad3)">
+      <node ref="P1" pin="3"/>
+    </net>
+    <net code="22" name="Net-(P1-Pad2)">
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="23" name="D-">
+      <node ref="P2" pin="2"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="24" name="D+">
+      <node ref="P2" pin="3"/>
+      <node ref="U3" pin="5"/>
+    </net>
+    <net code="25" name="GPIO0">
+      <node ref="U1" pin="6"/>
+      <node ref="Flash1" pin="1"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="26" name="Vusb">
+      <node ref="U2" pin="3"/>
+      <node ref="P2" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="C11" pin="1"/>
+    </net>
+    <net code="27" name="Net-(D11-Pad2)">
+      <node ref="R4" pin="1"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="28" name="+3V3">
+      <node ref="R2" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U2" pin="4"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C13" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="29" name="+3.3V">
+      <node ref="C17" pin="1"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U3" pin="16"/>
+    </net>
+    <net code="30" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+    </net>
+    <net code="31" name="Net-(C16-Pad1)">
+      <node ref="U3" pin="8"/>
+      <node ref="X1" pin="2"/>
+      <node ref="C16" pin="1"/>
+    </net>
+    <net code="32" name="Net-(C15-Pad1)">
+      <node ref="U3" pin="7"/>
+      <node ref="C15" pin="1"/>
+      <node ref="X1" pin="1"/>
+    </net>
+    <net code="33" name="Net-(U3-Pad15)">
+      <node ref="U3" pin="15"/>
+    </net>
+    <net code="34" name="Net-(U3-Pad14)">
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="35" name="Net-(U3-Pad13)">
+      <node ref="U3" pin="13"/>
+    </net>
+    <net code="36" name="Net-(U3-Pad9)">
+      <node ref="U3" pin="9"/>
+    </net>
+    <net code="37" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="38" name="Net-(U3-Pad11)">
+      <node ref="U3" pin="11"/>
+    </net>
+    <net code="39" name="Net-(U3-Pad12)">
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="40" name="Net-(P2-Pad4)">
+      <node ref="P2" pin="4"/>
+    </net>
+  </nets>
+</export>
